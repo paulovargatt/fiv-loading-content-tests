@@ -1,0 +1,9 @@
+
+.flex-scroll{
+  display: flex;
+  overflow-x: scroll;
+  width: 100%;
+  ion-card{
+    flex: 1 0 auto
+  }
+}
